@@ -1,0 +1,7 @@
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\bin\Debug\SumOfArray.exe.config
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\bin\Debug\SumOfArray.exe
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\bin\Debug\SumOfArray.pdb
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\obj\Debug\SumOfArray.csprojAssemblyReference.cache
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\obj\Debug\SumOfArray.csproj.CoreCompileInputs.cache
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\obj\Debug\SumOfArray.exe
+C:\Users\vinaygt\Desktop\Practice\SumOfArray\SumOfArray\obj\Debug\SumOfArray.pdb
