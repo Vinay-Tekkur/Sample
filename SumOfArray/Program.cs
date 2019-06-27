@@ -40,7 +40,18 @@ namespace SumOfArray
             }
 
             SumOfArray(arr);
+            Console.WriteLine("Array elements are :");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i] + " ");
+            }
             SqrtOfArray(arr);
+
+            Console.WriteLine("Sqaure root of Array elements are:");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i] + " ");
+            }
         }
     }
 }
