@@ -1,5 +1,5 @@
 def Adding(x,y):
-	pass
+	return x+y
 
 def Subtracting(x,y):
-	pass
+	return x-y
